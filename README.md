@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **bhaskkarsinha@gmail.com**
 
-- 📄 Know about my experiences [See my CV here(https://drive.google.com/file/d/1n0lWUTPf5ua_206boN0A2U1qhZIrenWq/view?usp=sharing)]
+- 📄 Know about my experiences [See my CV here](https://drive.google.com/file/d/1n0lWUTPf5ua_206boN0A2U1qhZIrenWq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
