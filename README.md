@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Market Microstructure**
 
-- 🌱 I’m currently learning **AI,Data science, health economics,climate economics ,public policy modeling**
+- 🌱 I’m currently learning **AI,Data science, Health economics,climate economics ,public policy modeling**
 
 - Google Scholar [https://scholar.google.com/citations?user=o2QkvnoAAAAJ&hl=en&oi=sra](https://scholar.google.com/citations?user=o2QkvnoAAAAJ&hl=en&oi=sra)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **bhaskkarsinha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n0lWUTPf5ua_206boN0A2U1qhZIrenWq/view?usp=sharing](https://drive.google.com/file/d/1n0lWUTPf5ua_206boN0A2U1qhZIrenWq/view?usp=sharing)
+- 📄 Know about my experiences [See my CV here](https://drive.google.com/file/d/1n0lWUTPf5ua_206boN0A2U1qhZIrenWq/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
