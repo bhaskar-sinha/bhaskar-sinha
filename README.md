@@ -8,22 +8,22 @@
 
 - 🔭 I’m currently working on **Market Microstructure**
 
-- 🌱 I’m currently learning **AI,Data Science, Health economics, climate economics , and public policy modeling**
+- 🌱 I’m currently learning **AI, Data Science, Health economics, Labor economics, and public policy modeling**
 
 - Google Scholar [https://scholar.google.com/citations?user=o2QkvnoAAAAJ&hl=en&oi=sra](https://scholar.google.com/citations?user=o2QkvnoAAAAJ&hl=en&oi=sra)
 
 - 📝 SSRN [https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=498698](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=498698)
 
-- 💬 Ask me about **R-software,SPSS, Stata,Valuation, Time series and Panel data**
+- 💬 Ask me about **R-software, SPSS, Stata, Valuation, Time series and Panel data**
 
 - 📫 How to reach me **bhaskkarsinha@gmail.com**
 
-- 📄 Know about my experiences [See my CV here](?usp=sharing)
+- 📄 Know about my experiences [See my CV here]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhaskkar_sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhaskkar_sinha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ww.linkedin.com/in/sinha-bhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ww.linkedin.com/in/sinha-bhaskar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/bhaskkarsinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ww.linkedin.com/in/sinha-bhaskar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
