@@ -8,17 +8,17 @@
 
 - 🔭 I’m currently working on **Market Microstructure**
 
-- 🌱 I’m currently learning **AI,Data science, Health economics,climate economics ,public policy modeling**
+- 🌱 I’m currently learning **AI,Data Science, Health economics, climate economics , and public policy modeling**
 
 - Google Scholar [https://scholar.google.com/citations?user=o2QkvnoAAAAJ&hl=en&oi=sra](https://scholar.google.com/citations?user=o2QkvnoAAAAJ&hl=en&oi=sra)
 
 - 📝 SSRN [https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=498698](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=498698)
 
-- 💬 Ask me about **R-software,SPSS,Stata,Valuation,Time series and Panel data**
+- 💬 Ask me about **R-software,SPSS, Stata,Valuation, Time series and Panel data**
 
 - 📫 How to reach me **bhaskkarsinha@gmail.com**
 
-- 📄 Know about my experiences [See my CV here](https://drive.google.com/file/d/1n0lWUTPf5ua_206boN0A2U1qhZIrenWq/view?usp=sharing)
+- 📄 Know about my experiences [See my CV here](?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
