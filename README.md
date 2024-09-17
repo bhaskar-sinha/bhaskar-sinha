@@ -21,10 +21,6 @@
 
 You can view my latest resume here: [Resume PDF](https://github.com/bhaskarsinha/bhaskarsinha-resume/raw/main/resume.pdf)
 
-This resume is automatically updated from my Overleaf project, where I make regular changes and improvements.
-
-
--  
 
 -
 
