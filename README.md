@@ -17,8 +17,14 @@
 - 💬 Ask me about **R-software, SPSS, Stata, Valuation, Time series and Panel data**
 
 - 📫 How to reach me **prof.b.sinha@gmail.com**
+- # Bhaskar Sinha's Resume
 
--  📝 My Resume  ****
+You can view my latest resume here: [Resume PDF](https://github.com/bhaskarsinha/bhaskarsinha-resume/raw/main/resume.pdf)
+
+This resume is automatically updated from my Overleaf project, where I make regular changes and improvements.
+
+
+-  
 
 -
 
