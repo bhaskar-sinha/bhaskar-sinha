@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhaskkar_sinha" target="blank"><img src="https://img.shields.io/twitter/follow/bhaskkar_sinha?logo=twitter&style=for-the-badge" alt="bhaskkar_sinha" /></a> </p>
 
-- 🔭 I’m currently working on **Market Microstructure**
+- 🔭 I’m currently working on **Market Microstructure & Inter-Generational Mobility in India**
 
 - 🌱 I’m currently learning **AI, Data Science, Health economics, Labor economics, and public policy modeling**
 
@@ -16,7 +16,9 @@
 
 - 💬 Ask me about **R-software, SPSS, Stata, Valuation, Time series and Panel data**
 
-- 📫 How to reach me **bhaskkarsinha@gmail.com**
+- 📫 How to reach me **prof.b.sinha@gmail.com**
+
+-  📝 My Resume  ****
 
 -
 
