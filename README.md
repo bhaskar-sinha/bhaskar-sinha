@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Market Microstructure & Inter-Generational Mobility in India**
 
-- 🌱 I’m currently learning **AI, Data Science, Health economics, Labor economics, and public policy modeling**
+- 🌱 I’m currently learning **AI, Data Science, Health Economics, Labor Economics, and Public Policy**
 
 - Google Scholar [https://scholar.google.com/citations?user=o2QkvnoAAAAJ&hl=en&oi=sra](https://scholar.google.com/citations?user=o2QkvnoAAAAJ&hl=en&oi=sra)
 
