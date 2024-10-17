@@ -17,7 +17,7 @@
 - 💬 Ask me about **R-software, SPSS, Stata, Valuation, Time series and Panel data**
 
 - 📫 How to reach me **prof.b.sinha@gmail.com**
--  Bhaskar Sinha's Resume : 
+  
 
 
 <h3 align="left">Connect with me:</h3>
